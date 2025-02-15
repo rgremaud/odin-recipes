@@ -1,0 +1,36 @@
+[33mcommit 4896ad59dc6e8f99eec5d68b9bdda20983c6e23c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Romain Gremaud <rgremau@gmail.com>
+Date:   Fri Feb 14 12:27:51 2025 -0500
+
+    Update all pages with css
+    
+    Added background color, font color, font size and
+    font-style to each page.
+
+[33mcommit f5cc70c8fec0cd841b5f9aed7480dc04e6d56428[m
+Author: Romain Gremaud <rgremau@gmail.com>
+Date:   Wed Feb 12 12:47:20 2025 -0500
+
+    Add two additional recipe pages with images
+    
+    Added two additional recipes with accompanied images and details.
+
+[33mcommit bd68e5c2d25095b883ba01ae888c02e2eb8cdd8d[m
+Author: Romain Gremaud <rgremau@gmail.com>
+Date:   Tue Feb 11 18:28:12 2025 -0500
+
+    Add vodka pasta recipe and fix image folder
+    
+    Added vodka pasta recipe and moved image file to proper image directory
+
+[33mcommit a0b94503738c9ee8a1e2e92e67a43c77c1fda835[m
+Author: Romain Gremaud <rgremau@gmail.com>
+Date:   Tue Feb 11 14:01:43 2025 -0500
+
+    Add index.HTML boilerplate and update README.md
+
+[33mcommit 8b8515f296f1997e4b4e03dad24ca72c461dd261[m
+Author: rgremaud <rgremau@gmail.com>
+Date:   Tue Feb 11 13:30:57 2025 -0500
+
+    Initial commit
